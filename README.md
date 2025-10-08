@@ -1,2 +1,412 @@
-# faizanalyst.github.io
-Personal Portfolio Website
+<!DOCTYPE HTML>
+<!--
+	Prologue by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Faiz Data Analyst Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<div id="header">
+
+				<div class="top">
+
+					<!-- Logo -->
+						<div id="logo">
+							<a href="#top" </a>
+							<span class="image avatar48"><img src="images/avatar 2.png" alt="" /></span>
+							<h1 id="title">Mohd Faiz Fuazi</h1>
+							<p>Data Analyst</p>
+							
+						</div>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a href="#about" id="top-link"><span class="icon solid fa-home">Intro</span></a></li>
+								<li><a href="#portfolio" id="portfolio-link"><span class="icon solid fa-th">Portfolio</span></a></li>
+								<li><a href="#skills" id="skills-link"><span class="icon solid fa-user">Skills</span></a></li>
+								<li><a href="#contact" id="contact-link"><span class="icon solid fa-envelope">Contact</span></a></li>
+							</ul>
+						</nav>
+
+				</div>
+
+				<div class="bottom">
+
+					<!-- Social Icons -->
+						<ul class="icons">
+							
+						
+							<li><a href="https://github.com/faizanalyst" class="icon brands fa-github"><span class="label">Github</span></a></li>
+						
+							<li><a href="#Contact" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+						</ul>
+
+				</div>
+
+			</div>
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- Intro -->
+					<section id="top" class="one dark cover">
+						<div class="container">
+
+							<footer>
+								<br><br><br><br><br>
+								<a href="#contact" class="button-33 scrolly">Get In Touch</a>
+							</footer>
+
+						</div>
+					</section>
+				<!-- About Me -->
+				<section id="about" class="two">
+					<div class="container">
+
+						<header>
+							<h2>Data Enthusiast
+							</h2>
+						</header>
+
+						<p>Hello! My name is <strong>Mohd Faiz Fuazi</strong> , an aspiring data analyst with a passion for transforming data into actionable insights. <br><br>
+							I have a background in Economics and Finance for undergraduate and professional certificate in Chartered Financial Analyst, 
+							I have developed a strong foundation in statistical analysis and data visualization. 
+							I enjoy working with tools like <strong> Microsoft Excel, Microsoft Power BI, SQL, and Python</strong>  to uncover trends and patterns that can drive decision-making.<br>
+							<br>
+							I’m excited about the opportunity to leverage my expertise to solve real-world problems and help organizations achieve their goals.
+							 I’m always eager to learn and grow in this dynamic field, and I’m looking forward to connecting with others who share my passion for data.
+						</p>
+
+						<a href="#about" class="image centered"><img src="images/about banner.jpeg" alt="" /></a>
+
+					</div>
+				</section>
+
+
+				<!-- Portfolio -->
+					<section id="portfolio" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Analytics in Action: My Journey Through Data</h2>
+							</header>
+
+							<p>With expertise in Microsoft Power Bi, Microsoft Excel, MySql, Python Pandas and data visualisation tools , I thrive on uncovering trends 
+								and patterns that can help organizations grow.<br>
+								 Checkout my recent projects </p>
+
+							<div class="row">
+								<div class="col-4 col-12-mobile">
+									<article class="item">
+										<a href="https://github.com/faizanalyst/Data-Analyst-Bootcamp-MySQL/blob/main/Portfolio%20Project%20-%20Data%20Cleaning.sql" target="_blank" class="image fit"><img src="images/portfolio 1.jpeg" alt="" /></a>
+										<header>
+											<h3>MySQL: Data Cleaning</h3>
+										</header>
+									</article>
+									<article class="item">
+										<a href="https://github.com/faizanalyst/Data-Analyst-Bootcamp-MySQL/blob/main/Portfolio%20Project%20-%20EDA.sql" target="_blank" class="image fit"><img src="images/portfolio 2.jpeg" alt="" /></a>
+										<header>
+											<h3>MySQL: Data Analysis</h3>
+										</header>
+									</article>
+								</div>
+								<div class="col-4 col-12-mobile">
+									<article class="item">
+										<a href="https://github.com/faizanalyst/Power-BI-Projects/blob/main/5.%20Data%20Analysis%20and%20Visualisation/Module%206%20Final%20Project%20Data%20Analysis%20and%20Visualisation/6.%20Graded%20Assignment%20-Executive-Summary.pbix" target="_blank" class="image fit"><img src="images/portfolio 3.jpeg" alt="" /></a>
+										<header>
+											<h3>Microsoft Power BI: Dashboard and Analysis</h3>
+										</header>
+									</article>
+									<article class="item">
+										<a href="https://github.com/faizanalyst/Power-BI-Projects/blob/main/4.%20Data%20Modeling/Module%202-%20Using%20Data%20Analysis%20Expression%20(DAX)/DAX%20Time%20Intelligence%20Adventure-Works%20(1).pbix" target="_blank" class="image fit"><img src="images/portfolio 4.jpeg" alt="" /></a>
+										<header>
+											<h3>Microsoft Power BI Data Analysis using DAX</h3>
+										</header>
+									</article>
+								</div>
+								<div class="col-4 col-12-mobile">
+									<article class="item">
+										<a href="https://github.com/faizanalyst/Data-Analyst-Bootcamp--Ms-Excel-Advance/blob/main/Excel%20Full%20Project.xlsx" target="_blank" class="image fit"><img src="images/portfolio 5.jpeg" alt="" /></a>
+										<header>
+											<h3>Microsoft Excel</h3>
+										</header>
+									</article>
+									<article class="item">
+										<a href="https://github.com/faizanalyst/Web-Scraping-Python" target="_blank" class="image fit"><img src="images/Portfolio 6.jpeg" alt="" /></a>
+										<header>
+											<h3>Webscraping using Python</h3>
+										</header>
+									</article>
+								</div>
+							</div>
+
+						</div>
+					</section>
+
+				<!-- Skills -->
+					<section id="skills" class="three">
+						<div class="container">
+
+							<header>
+								<h2>Insightful Skills: The Tools Behind My Analysis</h2>
+							</header>
+
+							<a href="#skills" class="image centered"><img src="images/power bi cert smaller.jpg" alt="" /></a>
+							
+							<h3> Microsoft Power BI Data Analyst Professional Certificate</h3>
+								<p> currently completing this course</p>
+								
+								<h4>
+									<a href="images/Coursera Preparing Data Analysis with Excel.pdf" target="_blank">
+									 1- Preparing Data for Analysis with Microsoft Excel
+									</a>
+								</h4>
+									<p> <a href="https://github.com/faizanalyst/Power-BI-Projects/tree/main/1-%20Preparing%20Data%20for%20Analysis%20with%20Microsoft%20Excel" target="_blank">
+										see this module project here 
+									</a>  
+									</p>
+								<h4>
+									<a href="images/Coursera Ms PBI- Harnessing Power of Data.pdf" target="_blank">
+									2- Harnessing the Power of Data with Power BI
+									</a>
+								</h4>
+									<p><a href="https://github.com/faizanalyst/Power-BI-Projects/tree/main/2.%20Harnessing%20power%20of%20data" target="_blank">see this module project here
+
+									</a>
+									</p>
+								
+								<h4>
+									<a href="images/Coursera Ms PBI- Extract, Transform and Load Data.pdf" target="_blank">
+									3- Extract, Transform and Load Data in Power BI
+									</a>
+								</h4>
+									<p> <a href="https://github.com/faizanalyst/Power-BI-Projects/tree/main/3.%20Extract%2C%20Transform%20and%20Load" target="_blank">
+										see this module project here 
+									</a>
+						
+									</p>
+								<h4>
+									<a href="images/Coursera Ms PBI- Data Modelling.pdf" target="_blank">
+									4- Data Modeling in Power BI
+									</a>
+								</h4>
+									<p><a href="https://github.com/faizanalyst/Power-BI-Projects/tree/main/4.%20Data%20Modeling" target="_blank">
+										see this module project here 
+									</a>
+										
+									</p>
+								<h4>
+									<a href="images/Coursera Ms PBI- Data Modelling.pdf" target="_blank">
+									5- Data Analysis and Visualization with Power BI
+									</a>
+								</h4>
+									<p><a href="https://github.com/faizanalyst/Power-BI-Projects/tree/main/5.%20Data%20Analysis%20and%20Visualisation" target="_blank">
+										see this module project here
+									</a>
+										 
+									</p>
+								<h4>
+									<a href="images/Coursera Ms PBI-Creative Design.pdf" target="_blank">
+									6- Creative Designing in Power BI
+									</a>
+								</h4>
+									<p> <a href="https://github.com/faizanalyst/Power-BI-Projects/tree/main/6.%20Creative%20Design" target="_blank">
+										see this module project here
+									</a>
+									</p>
+								<h4>7- Deploy and Maintain Power BI Assets and Capstone project</h4>
+									<p>still on going
+									</p>
+
+
+							<a href="#skills" class="image centered"><img src="images/Data Analytics Bootcamp Certification of Completion.png" alt="" /></a>
+							
+							<h3> Data Analytics Bootcamp</h3>
+								<p> successfully completed</p>
+								
+								<h4> MySql For Beginners</h4>
+									<p>select statement, where clause, group by and order by, limit and aliasing, <br>
+										<a href="https://github.com/faizanalyst/Data-Analyst-Bootcamp-MySQL/tree/main/1.Beginner" target="_blank">
+											see work files here
+										</a>
+									
+									</p>
+								<h4>MySql For Intermediate</h4>
+									<p>Joins (left, right, inner, outer and full), unions, string functions, case statements, subqueries, windows functions,  <br>
+										<a href="https://github.com/faizanalyst/Data-Analyst-Bootcamp-MySQL/tree/main/2.Intermediate" target="_blank">
+											see work files here
+										</a>
+										
+									</p>
+								
+								<h4>MySql for Advance</h4>
+									<p>common table expression (CTE), temp tables, stored procedures, triggers and events,   <br>
+										<a href="https://github.com/faizanalyst/Data-Analyst-Bootcamp-MySQL/tree/main/3.Advanced" target="_blank">
+											see work files here
+										</a>
+										
+									</p>
+								<h4>Data Cleaning in MySql (Full Project)</h4>
+									<p><a href="https://github.com/faizanalyst/Data-Analyst-Bootcamp-MySQL/blob/main/Portfolio%20Project%20-%20Data%20Cleaning.sql">
+										see the project file here
+									</a>
+										
+									</p>
+								<h4>Excel for Beginners</h4>
+									<p>pivot tables, formula in excels, Xlookup, conditional formating,  <br>
+										<a href="https://github.com/faizanalyst/Data-Analyst-Bootcamp--Ms-Excel-Advance" target="_blank">
+											see work files here
+										</a>
+										
+									</p>
+								<h4>Full Project in Excel: Dashboard and Pivot Table </h4>
+									<p><a href="https://github.com/faizanalyst/Data-Analyst-Bootcamp--Ms-Excel-Advance/blob/main/Excel%20Full%20Project.xlsx" target="_blank">
+										see the project file here
+									</a>
+										
+									</p>
+								
+								<h4>Full Project in Tableu</h4>
+									<p>calculated fields, bins, visualisation in tableu, joins (viewing access restricted by Tableau hence only screenshot available)
+										<br><a href="https://github.com/faizanalyst/Data-Analyst-Bootcamp-Tableau" target="_blank">
+											see the project file here
+										</a>
+										
+									</p>
+								
+								<h4>Project:Building BMI calculator with Python</h4>
+									<p><a href="https://github.com/faizanalyst/Data-Analyst-Bootcamp-Python/blob/main/BMI%20Calculator.ipynb" target="_blank">
+										see the project file here
+									</a>
+										
+									</p>
+								<h4>Project: Automated File Sorter in File Explorer with Python</h4>
+									<p><a href="https://github.com/faizanalyst/Data-Analyst-Bootcamp-Python/blob/main/Automate%20Files%20Sorting%20in%20Folder.ipynb" target="_blank">
+										see the project file here
+									</a>
+										
+									</p>
+								
+								<h4>Full Project: Web Scraping Amazon website with Python </h4>
+									<p><a href="https://github.com/faizanalyst/Data-Analyst-Bootcamp-Python/blob/main/Amazon%20Web%20Scraping%20Python.ipynb" target="_blank">
+										see the project file here
+									</a>
+										
+									</p>
+								<h4>Data Cleaning with Python Pandas</h4>
+									<p> <a href="https://github.com/faizanalyst/Data-Analyst-Bootcamp-Python/blob/main/Data%20Cleaning%20in%20Pandas.ipynb" target="_blank">
+										see work file here </a>
+									</p>
+
+								<h4>Visualisation with Python Pandas</h4>
+									<p><a href="https://github.com/faizanalyst/Data-Analyst-Bootcamp-Python/blob/main/Visualisation%20pandas.ipynb" target="_blank">
+										see work file here
+									</a>
+									</p>
+								<h4>Explanatory Data Analysis with Python Pandas</h4>
+									<p><a href="https://github.com/faizanalyst/Data-Analyst-Bootcamp-Python/blob/main/Exploratory%20Data%20Analysis%20in%20Pandas.ipynb" target="_blank">
+										see work file here
+									</a>
+									</p>	
+								<h4>Automating Cypto Website API Pull Using Python</h4>
+									<p><a href="https://github.com/faizanalyst/Data-Analyst-Bootcamp-Python/blob/main/Automating%20Crypto%20Website%20API%20Pull%20Using%20Python%20.ipynb" target="_blank">
+										see the project file here
+									</a>
+									</p>	
+
+									
+									<a href="#skills" class="image centered"><img src="images/cfa file.jpeg" alt="" /></a>
+								<h3> Chartered Financial Analyst by CFA Institute</h3>
+								<p> pass all 3 examinations but not an active member of CFA society <br>
+									The Chartered Financial Analyst (CFA) is a multiple-choice test that assesses a candidate's financial analysis skills: 
+
+									The exam covers 10 topics, including: </p>
+									<h5>
+									Ethical and professional standards <br>
+									Quantitative methods <br>
+									Economics <br>
+									Financial statement and analysis <br>
+									Corporate finance <br>
+									Equity investments <br>
+									Fixed income <br>
+									Derivatives <br>
+									Alternative investments <br>
+									Portfolio management </h5> <br>
+								
+								<h4> Examination Paper Level 1</h4>
+									<p>
+										Generally level 1 focus on ethics and financial statement exploration, analysis and adjustments <br>
+										but due to my mistake the result is missing, successfully completed on June 2013
+									
+									</p>
+								<h4> Examination Paper Level 2</h4>
+									<p> Generally level 2 focus on valuation for each asset type which cover equities, debt, real estate and alternative assets <br>
+										<a href="CFA/CFA level II.pdf" target="_blank"> successfully completed on June 2015, view the emailed result here </a>
+										
+									
+									</p>
+								<h4> Examination Paper Level 3</h4>
+									<p> Generally level 3 is about portfolio management and asset allocation <br>
+										<a href="CFA/CFA level III.pdf" target="_blank">successfully completed on June 2016, view the emailed result here </a>
+										
+									</p>
+						</div>
+					</section>
+
+				<!-- Contact -->
+					<section id="contact" class="four">
+						<div class="container">
+
+							<header>
+								
+								<h2>Let's Work Together</h2>
+							</header>
+
+							<p>If you are interested to get know me please drop me a message or an email to <bold> <u> email@faizanalyst.com</u></bold> I will response promptly.<br> Thank you for visiting my website</p>
+						
+							<form method="post" action="https://formspree.io/f/xanyqnje">
+								<div class="row">
+									<div class="col-6 col-12-mobile"><input type="text" name="name" placeholder="Name" /></div>
+									<div class="col-6 col-12-mobile"><input type="text" name="email" placeholder="Email" /></div>
+									<div class="col-12">
+										<textarea name="message" placeholder="Message"></textarea>
+									</div>
+									<div class="col-12">
+										<input type="submit" value="Send Message" />
+									</div>
+								</div>
+							</form>
+
+						</div>
+					</section>
+
+					
+			</div>
+
+		<!-- Footer -->
+			<div id="footer">
+
+				
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
